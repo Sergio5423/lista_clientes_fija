@@ -1,0 +1,247 @@
+{
+   "checksum": "4ec094cded575d007c88b015991a61cd",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13266176510006595",
+            "date_last_used": "0",
+            "guid": "7f565b64-e2a1-4f46-a7d5-52f0653e1116",
+            "id": "14",
+            "name": "SofiaPlus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://oferta.senasofiaplus.edu.co/sofia-oferta/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "9603195b-feda-4d85-8e09-51284bdee0f4",
+            "id": "15",
+            "name": "SlidesGo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://slidesgo.com/es/",
+            "visit_count": 0
+         }, {
+            "date_added": "13331051849220762",
+            "date_last_used": "0",
+            "guid": "f5a746f8-357a-426d-8cc2-14a60b166649",
+            "id": "16",
+            "name": "Cedreo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.cedreo.com/#/project/salesperson/self/show/6316321",
+            "visit_count": 0
+         }, {
+            "date_added": "13342992846381254",
+            "date_last_used": "13358997737714436",
+            "guid": "5aeb511b-6eac-4fc0-870d-86d184d950b1",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Freepik",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freepik.es/",
+            "visit_count": 0
+         }, {
+            "date_added": "13343351519749168",
+            "date_last_used": "0",
+            "guid": "71c68054-3fc5-467f-a33e-b8065c7eb928",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Roms en Español",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://romsespanol.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13359770268792566",
+            "date_last_used": "0",
+            "guid": "a12baf4f-c172-4289-b091-8bd34f80fda5",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Engaging Algebra Tasks for 6-12th Graders | Graspable Math Activities",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://activities.graspablemath.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13368246481282712",
+            "date_last_used": "0",
+            "guid": "6f5455ed-0b40-47c3-8789-7c872c664d42",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MATLAB",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://matlab.mathworks.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13368841133313995",
+            "date_last_used": "0",
+            "guid": "26031d90-148b-4581-8f93-3acee6049da4",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitMind",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gitmind.com/app/docs?lang=en",
+            "visit_count": 0
+         }, {
+            "date_added": "13369260679306983",
+            "date_last_used": "0",
+            "guid": "b062c446-5c49-453e-8d75-20996b0fca68",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Replit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://replit.com/~",
+            "visit_count": 1
+         }, {
+            "date_added": "13370383943505786",
+            "date_last_used": "0",
+            "guid": "ac25ff74-62b0-452c-a8ac-4643d6e632e9",
+            "id": "7",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13370383943505345",
+            "date_last_used": "0",
+            "guid": "2227ed92-2151-45b8-b022-7d2dc741860c",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         } ],
+         "date_added": "13370383943274381",
+         "date_last_used": "0",
+         "date_modified": "13370383943505786",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13370383943274385",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13202099319543000",
+               "date_last_used": "0",
+               "guid": "b541c2ca-5f2f-47b5-a2f6-323a215535bb",
+               "id": "9",
+               "name": "Pivigames",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://pivigames.blog/",
+               "visit_count": 0
+            }, {
+               "date_added": "13164045096420000",
+               "date_last_used": "0",
+               "guid": "125429af-0e96-467c-8369-d7090fae21c6",
+               "id": "10",
+               "name": "Serials",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.serials.ws/",
+               "visit_count": 0
+            }, {
+               "date_added": "13184164056039000",
+               "date_last_used": "0",
+               "guid": "22f9bec0-81bf-454e-ba1c-dc9fbfa5ff0b",
+               "id": "11",
+               "name": "CineCalidad",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.cinecalidad.to/",
+               "visit_count": 0
+            }, {
+               "date_added": "13231716168296000",
+               "date_last_used": "0",
+               "guid": "cd100d5c-1f32-4bd3-9732-75a087959c0d",
+               "id": "12",
+               "name": "GamesTorrents",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.gamestorrents.nu/",
+               "visit_count": 0
+            } ],
+            "date_added": "13235685397874077",
+            "date_last_used": "0",
+            "date_modified": "13235685397874077",
+            "guid": "de31c3a9-fda9-41f1-b102-48ad34c2629c",
+            "id": "8",
+            "name": "_Favorites_Bar_",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13350575796976580",
+            "date_last_used": "0",
+            "guid": "e5cb8bb5-3c09-4496-a4ba-7cc76ca11f4b",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://haveibeenpwned.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13370383943274388",
+         "date_last_used": "0",
+         "date_modified": "13350575796976580",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCB8bRtiRAQAAEgAqGGFJQjVCaFNoRWhUdzdkRWJqRm56WVE9PUgDoAYMErABCBYSqwEKHGZCNWVRSTJqcXF2dTJVM293cXFKNS9TRFRHUT0SJGIwNjJjNDQ2LTVjNDktNDUzZS04ZDc1LTIwOTk2YjBmY2E2OBgAIAIoAjCdtpjCnTI4sY3JqpkyQLaGmMKdMkocZWhNV3ZIM3BCNTVtMnkrcmZkc081YWYzN29jPVonIiX/////AAAABL1MTnorQVVHRXg2Tm1kMmpLbnpKakI3TkNIUW89ZYAaNggSrwEIFBKqAQocSGtHTG9FaDdQVGJoTTd2K0dzMzZTRHA4emtFPRIkNmY1NDU1ZWQtMGI0MC00N2MzLTg3ODktN2M4NzJjNjY0ZDQyGAAgAigCMJy2mMKdMjj3rPvGlTJAtoaYwp0yShxTc1EvZWV3cDY3WHl6Vy85NXNMMGZ1cmpTMEk9WiYiJP////8AAAAEQXBxRUxrY3YrdEhhUlBzQVI1OGhNeXEwYXo0PWWxWV00EqsBCBMSpgEKHEVXem5aMUMvemRmcXl6eDUvVGdWTldtTnYrND0SJGExMmJhZjRmLWMxNzItNDI4OS1iMDkxLThiZDM0ZjgwZmRhNRgAIAIoAjCatpjCnTI4zL2Y/fUxQLWGmMKdMkocbXBWL01xTlhqWkJ4eklUUWx0N2VDdUhSWHo4PVoiIiD////+RVpkT291ZEdpcDkvUVJYZkdxaXZocW9zdllzPWVMQLx+EqsBCBISpgEKHHNDajYrT2xtTkRTUVlBb1A4bE9BOWlLKytEcz0SJDcxYzY4MDU0LTNmYzUtNDY3Zi1hMzNlLWI4MDY1YzdlYjkyOBgAIAIoAjCXtpjCnTI47b2P6LgxQLWGmMKdMkocbXczT3M2SmZ0RStHandsaDBwZ2h6KzRvT3VZPVoiIiD////7bnRudk52TE4rR1JjaFN3SjcvWjFJVXJFQm5FPWWnLvTUEqsBCBESpgEKHGJUNnpmcXhlZUh4TU9VQ3Zrc0Q4YjMvQ0Z4OD0SJDVhZWI1MTFiLTZlYWMtNGZjMC04NzBkLTg2ZDE4NGQ5NTBiMRgAIAIoAjCZtpjCnTI47e2LvbcxQLSGmMKdMkocWkV3b0tSdFhlU0dWZlJxNU9RU05PVDNBS0R3PVoiIiD////3c3UwYmlLQXM0SEdMM1lwekNaZnJ5TUpoU3c0PWXfbgwCEqoBCA8SpQEKHFNvWWk3YndxdEVLYnArZ1pzbkJDRHM2VEZ4ND0SJDk2MDMxOTViLWZlZGEtNGQ4NS04ZTA5LTUxMjg0YmRlZTBmNBgAIAIoAjCbtpjCnTI4h/GC4KIwQLSGmMKdMkocQytuVFFjcEtYR3pVU3VGU2o2eExwMWdIeWRJPVohIh////9wRkFseHluaTNOVldwSjJLdElaU2VwUXlaVkk9ZdKxu+ESqAEIDRKjAQocVVEza2p2U1lpSmRGNVlQaU10VWZjK0p6WmlzPRIkZTVjYjhiYjUtM2MwOS00NDk2LWE0YmEtN2NjNzZjYTExZjRiGAAgACgAMKz+p5DeMTjF/6eQ3jFAxf+nkN4xShwvUXZDdWw3QjFsNE9oUFRXSGJMMlhFQVZzdXM9Wh8iHdZhWURmMFdoYjBhWUxGNzZTN0tQR2JXSkxZeFE9ZVStU4ESiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkOGU3Y2NkYTItZDFkYy01ZjdlLWI1MGQtOTEyNzcyN2Q1YjZiGAAgACgAMOzY/tawMDi4ysy86i9AuMrMvOovShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKvAQgVEqoBChwxOGhTL3MyVVN0b0dadHdOeDBOcFc4dm9sV2M9EiQyNjAzMWQ5MC0xNDhiLTQ1ODEtOGY5My0zYWNlZTYwNDlkYTQYACACKAIwlraYwp0yOLWRwuKXMkC2hpjCnTJKHFBoUSs4VEI0Vi9hL3JOYnFBR2FUSHFmM2Zrdz1aJiIk/////wAAAAR6bnZLeElINjFpRk5VcE9zcjByM1NWLy9qMG89ZT0yslsSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZGMxNWZkMTctMzRmMi01ZDAzLThiNjQtOThlNzBlNTliZDE0GAAgACgAMOzY/tawMDiZysy86i9AmcrMvOovShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKpAQgOEqQBChxYZWxtVHl2RnZhakpleDVyNk56dmxFKzR3ckk9EiQ3ZjU2NWI2NC1lMmExLTRmNDYtYTdkNS01MmYwNjUzZTExMTYYACACKAIwmLaYwp0yOLyczbzqL0CzhpjCnTJKHE41bCtxQ1NMazBtbEljUDJzYzlkV2lOenlWdz1aICIe//9TTVIrRGJIcERNRmYyQXFkeDNtbFRBUnc0bTA9ZanAEbYSqwEIEBKmAQocaWl6QjdwcWpQQkNNeDRzZy9XVHhhTVhxVkNRPRIkZjVhNzQ2ZjgtMzU3YS00MjZkLThjYzItMTRhNjBiMTY2NjQ5GAAgAigCMJW2mMKdMji6ppf/ijFAtIaYwp0yShx4UEF0SGllTmlVa0t4aVRUMHFWQUcrT0xFZGs9WiIiIP///9xqek56Z3BkeGFUTWs2ZTdlZG9jMk5UNjFFUEU9ZVLuadcSpwEIChKiAQocQXZzekpsd1J3ajBiMWc1VmdJdTRCd2JpMlowPRIkMTI1NDI5YWYtMGU5Ni00NjdjLTgzNjktZDcwOTBmYWUyMWM2GAAgACgAMPKQxP3DMDj1k8T9wzBA9ZPE/cMwShwvTXBiSm5PVExlWkhiT0lOZmtneWEwK0RmOHc9Wh4iHFFsVDhPTTkzZVZMdmZGa2czMzNLUzkzY0JmST1lAAAAABKoAQgLEqMBChwyaWRSOS9hd2cxRWI4amI5YzRxQzJnQ1hxODA9EiQyMmY5YmVjMC04MWJmLTQ1NGUtYmExYy1kYzlmYmZhNWZmMGIYACAAKAAw85DE/cMwOJSUxP3DMECUlMT9wzBKHFZSSUt5Z3hmdFBJWWJuYlRmSlg1YmJONmxRVT1aHyIdqDJSbjZrMzJuUGcvc21hMENtQ0VpV2JSejZEaz1lrgk0cRKoAQgIEqMBChwwU0t3Rzc2a1JLMnJaZkxDWm5CcVliUzBsMkU9EiRkZTMxYzNhOS1mZGE5LTQxZjEtYjEwMi00OGFkMzRjMjYyOWMYACAAKAAw8JDE/cMwOLeTxP3DMEC3k8T9wzBKHDcvd2N2bDNiaEdTUndpaGMyck5POU5OeFEzTT1aHyIdrDd2ZG54b0lXaW5QdmliL1RqdjZoSVJYZFM4Zz1lAAAAABKoAQgMEqMBChxVdUpTOEM0bE1seFM2V1AvUGhXY3ZCWWFSOVU9EiRjZDEwMGQ1Yy0xZjMyLTRiZDMtOTczMi03NWEwODc5NTljMGQYACAAKAAw9fHH68cwOKSUxP3DMECklMT9wzBKHEJabk1tVXRLcUtIRjQyOHJnbUVSdlJXOFlSYz1aHyId1DRTWEZweTlBbEwzdGVYL3Vwa0lxaW0xL1Yvdz1l4iQ4YxKnAQgJEqIBChxVWEgxUm8yMWtXdG5MaVVEWHREQURXdGxJSDQ9EiRiNTQxYzJjYS01ZjJmLTQ3YjUtYTJmNi0zMjNhMjE1NTM1YmIYACAAKAAwx931sYIxONaTxP3DMEDWk8T9wzBKHHhKbjhoaWtJaTZ1SHRjRGYycjY5T3hGeDZPaz1aHiIcUGJSUWdKSDgvblIvVm5uaU1oVDlWUXU0cmdvPWW6zqpwEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDBlNTY3MjRkLTBlYWItNTBiMi05MGJjLWUzNmIzMjc1ZjdlZRgAIAAoADDs2P7WsDA4h8vMvOovQIfLzLzqL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
